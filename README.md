@@ -1,3 +1,3 @@
-# MachineLearningHomework3
+MachineLearningHomework3
 
-# Clustering & Dimension Reduction
+Clustering & Dimension Reduction
